@@ -14,7 +14,11 @@
 //testando o push do gitkraken.
 ```
 
+<<<<<<< HEAD
 ### Sexta alteração, pmas neste caso foi feita no próprio github. 
+=======
+### Quinta alteração, pmas neste caso foi feita no próprio github. 
+>>>>>>> main
 
 ```
 //testando o push do gitkraken.
